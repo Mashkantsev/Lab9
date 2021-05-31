@@ -6,7 +6,73 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="474545cf-1514-4ac0-a880-79bfc56b4826" name="Default Changelist" comment="" />
+    <list default="true" id="474545cf-1514-4ac0-a880-79bfc56b4826" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Lab_9_war_exploded/WEB-INF/tags/adListing.tag" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Lab_9_war_exploded/WEB-INF/tags/adListing.tag" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Lab_9_war_exploded/WEB-INF/tags/deleteButton.tag" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Lab_9_war_exploded/WEB-INF/tags/deleteButton.tag" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Lab_9_war_exploded/WEB-INF/tags/editButton.tag" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Lab_9_war_exploded/WEB-INF/tags/editButton.tag" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Lab_9_war_exploded/WEB-INF/tags/errorMessage.tag" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Lab_9_war_exploded/WEB-INF/tags/errorMessage.tag" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Lab_9_war_exploded/WEB-INF/tags/layout1Column.tag" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Lab_9_war_exploded/WEB-INF/tags/layout1Column.tag" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Lab_9_war_exploded/WEB-INF/tags/layout2Columns.tag" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Lab_9_war_exploded/WEB-INF/tags/layout2Columns.tag" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Lab_9_war_exploded/WEB-INF/tlds/ad.tld" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Lab_9_war_exploded/WEB-INF/tlds/ad.tld" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Lab_9_war_exploded/cabinet.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Lab_9_war_exploded/cabinet.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Lab_9_war_exploded/doDeleteAd.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Lab_9_war_exploded/doDeleteAd.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Lab_9_war_exploded/doLogin.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Lab_9_war_exploded/doLogin.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Lab_9_war_exploded/doRegister.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Lab_9_war_exploded/doRegister.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Lab_9_war_exploded/doUpdateAd.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Lab_9_war_exploded/doUpdateAd.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Lab_9_war_exploded/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Lab_9_war_exploded/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Lab_9_war_exploded/register.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Lab_9_war_exploded/register.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Lab_9_war_exploded/static/footer.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Lab_9_war_exploded/static/footer.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Lab_9_war_exploded/static/header.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Lab_9_war_exploded/static/header.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Lab_9_war_exploded/updateAd.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Lab_9_war_exploded/updateAd.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Lab_9_war_exploded/viewAd.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Lab_9_war_exploded/viewAd.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab_9/bsu/rfe/java/Mashkantsev/entity/Ad.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab_9/bsu/rfe/java/Mashkantsev/entity/Ad.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab_9/bsu/rfe/java/Mashkantsev/entity/ListOfIdentifiables.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab_9/bsu/rfe/java/Mashkantsev/entity/ListOfIdentifiables.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab_9/bsu/rfe/java/Mashkantsev/entity/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab_9/bsu/rfe/java/Mashkantsev/entity/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab_9/bsu/rfe/java/Mashkantsev/entity/UserList$UserExistsException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab_9/bsu/rfe/java/Mashkantsev/entity/UserList$UserExistsException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab_9/bsu/rfe/java/Mashkantsev/entity/UserList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab_9/bsu/rfe/java/Mashkantsev/entity/UserList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab_9/bsu/rfe/java/Mashkantsev/helper/AdListHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab_9/bsu/rfe/java/Mashkantsev/helper/AdListHelper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab_9/bsu/rfe/java/Mashkantsev/helper/UserListHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab_9/bsu/rfe/java/Mashkantsev/helper/UserListHelper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab_9/bsu/rfe/java/Mashkantsev/servlet/StartupServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab_9/bsu/rfe/java/Mashkantsev/servlet/StartupServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab_9/bsu/rfe/java/Mashkantsev/tag/AddUser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab_9/bsu/rfe/java/Mashkantsev/tag/AddUser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab_9/bsu/rfe/java/Mashkantsev/tag/DeleteAd.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab_9/bsu/rfe/java/Mashkantsev/tag/DeleteAd.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab_9/bsu/rfe/java/Mashkantsev/tag/GetAds$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab_9/bsu/rfe/java/Mashkantsev/tag/GetAds$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab_9/bsu/rfe/java/Mashkantsev/tag/GetAds.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab_9/bsu/rfe/java/Mashkantsev/tag/GetAds.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab_9/bsu/rfe/java/Mashkantsev/tag/Login.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab_9/bsu/rfe/java/Mashkantsev/tag/Login.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab_9/bsu/rfe/java/Mashkantsev/tag/UpdateAd.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab_9/bsu/rfe/java/Mashkantsev/tag/UpdateAd.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bsu/rfe/java/Mashkantsev/entity/Ad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bsu/rfe/java/Mashkantsev/entity/Ad.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bsu/rfe/java/Mashkantsev/entity/AdList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bsu/rfe/java/Mashkantsev/entity/AdList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bsu/rfe/java/Mashkantsev/entity/ListOfIdentifiables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bsu/rfe/java/Mashkantsev/entity/ListOfIdentifiables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bsu/rfe/java/Mashkantsev/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bsu/rfe/java/Mashkantsev/entity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bsu/rfe/java/Mashkantsev/entity/UserList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bsu/rfe/java/Mashkantsev/entity/UserList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bsu/rfe/java/Mashkantsev/helper/AdListHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bsu/rfe/java/Mashkantsev/helper/AdListHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bsu/rfe/java/Mashkantsev/helper/UserListHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bsu/rfe/java/Mashkantsev/helper/UserListHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bsu/rfe/java/Mashkantsev/servlet/StartupServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bsu/rfe/java/Mashkantsev/servlet/StartupServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bsu/rfe/java/Mashkantsev/tag/AddUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bsu/rfe/java/Mashkantsev/tag/AddUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bsu/rfe/java/Mashkantsev/tag/DeleteAd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bsu/rfe/java/Mashkantsev/tag/DeleteAd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bsu/rfe/java/Mashkantsev/tag/GetAds.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bsu/rfe/java/Mashkantsev/tag/GetAds.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bsu/rfe/java/Mashkantsev/tag/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bsu/rfe/java/Mashkantsev/tag/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bsu/rfe/java/Mashkantsev/tag/UpdateAd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bsu/rfe/java/Mashkantsev/tag/UpdateAd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/tags/adListing.tag" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/tags/adListing.tag" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/tags/deleteButton.tag" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/tags/deleteButton.tag" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/tags/editButton.tag" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/tags/editButton.tag" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/tags/errorMessage.tag" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/tags/errorMessage.tag" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/tags/layout1Column.tag" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/tags/layout1Column.tag" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/tags/layout2Columns.tag" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/tags/layout2Columns.tag" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/tlds/ad.tld" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/tlds/ad.tld" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/cabinet.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/cabinet.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/doDeleteAd.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/doDeleteAd.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/doLogin.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/doLogin.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/doRegister.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/doRegister.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/doUpdateAd.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/doUpdateAd.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/register.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/register.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/footer.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/static/footer.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/header.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/static/header.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/updateAd.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/updateAd.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/viewAd.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/viewAd.jsp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +89,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
     <option name="FILTER_WARNINGS" value="false" />
@@ -31,6 +100,7 @@
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectId" id="1tGy7Mzq24AKhekcMzhISMmN28E" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -38,6 +108,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/web/WEB-INF/lib" />
@@ -58,12 +129,12 @@
   </component>
   <component name="RunManager">
     <configuration name="Tomcat 9.0.463" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.463" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
-      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8081/Lab_9_war_exploded/index.jsp" />
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8081/ad" />
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
         <artifact name="Lab_9:war exploded">
           <settings>
-            <option name="CONTEXT_PATH" value="/Lab_9_war_exploded" />
+            <option name="CONTEXT_PATH" value="/ad" />
           </settings>
         </artifact>
       </deployment>
@@ -167,7 +238,7 @@
       <workItem from="1622409560560" duration="6869000" />
       <workItem from="1622417042897" duration="1002000" />
       <workItem from="1622452687645" duration="4182000" />
-      <workItem from="1622459218277" duration="89000" />
+      <workItem from="1622459218277" duration="4083000" />
     </task>
     <servers />
   </component>
@@ -179,14 +250,14 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="567" y="167" key="#Project_Structure/-1920.9.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1622459271879" />
-    <state x="657" y="145" key="#Tomcat_9.0.463" timestamp="1622457816143">
+    <state x="657" y="145" key="#Tomcat_9.0.463" timestamp="1622463001338">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="657" y="145" key="#Tomcat_9.0.463/-1920.9.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1622457816143" />
-    <state x="429" y="164" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1622459306894">
+    <state x="657" y="145" key="#Tomcat_9.0.463/-1920.9.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1622463001338" />
+    <state x="429" y="164" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1622459763317">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="429" y="164" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.9.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1622459306894" />
+    <state x="429" y="164" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.9.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1622459763317" />
     <state x="599" y="227" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1622412319198">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -195,6 +266,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="552" y="198" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable/-1920.9.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1622416281077" />
+    <state x="756" y="425" width="416" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1622460311622">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="756" y="425" width="416" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/-1920.9.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1622460311622" />
     <state x="690" y="287" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1622412220743">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -207,54 +282,54 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="740" y="281" key="FileChooserDialogImpl/-1920.9.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1622416279087" />
-    <state width="1293" height="295" key="GridCell.Tab.0.bottom" timestamp="1622459327346">
+    <state width="1293" height="295" key="GridCell.Tab.0.bottom" timestamp="1622463157869">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1293" height="295" key="GridCell.Tab.0.bottom/-1920.9.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1622459327346" />
-    <state width="1293" height="295" key="GridCell.Tab.0.center" timestamp="1622459327345">
+    <state width="1293" height="295" key="GridCell.Tab.0.bottom/-1920.9.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1622463157869" />
+    <state width="1293" height="295" key="GridCell.Tab.0.center" timestamp="1622463157869">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1293" height="295" key="GridCell.Tab.0.center/-1920.9.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1622459327345" />
-    <state width="1293" height="295" key="GridCell.Tab.0.left" timestamp="1622459327345">
+    <state width="1293" height="295" key="GridCell.Tab.0.center/-1920.9.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1622463157869" />
+    <state width="1293" height="295" key="GridCell.Tab.0.left" timestamp="1622463157868">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1293" height="295" key="GridCell.Tab.0.left/-1920.9.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1622459327345" />
-    <state width="1293" height="295" key="GridCell.Tab.0.right" timestamp="1622459327345">
+    <state width="1293" height="295" key="GridCell.Tab.0.left/-1920.9.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1622463157868" />
+    <state width="1293" height="295" key="GridCell.Tab.0.right" timestamp="1622463157869">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1293" height="295" key="GridCell.Tab.0.right/-1920.9.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1622459327345" />
-    <state width="1293" height="295" key="GridCell.Tab.1.bottom" timestamp="1622459327127">
+    <state width="1293" height="295" key="GridCell.Tab.0.right/-1920.9.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1622463157869" />
+    <state width="1293" height="295" key="GridCell.Tab.1.bottom" timestamp="1622463157543">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1293" height="295" key="GridCell.Tab.1.bottom/-1920.9.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1622459327127" />
-    <state width="1293" height="295" key="GridCell.Tab.1.center" timestamp="1622459327127">
+    <state width="1293" height="295" key="GridCell.Tab.1.bottom/-1920.9.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1622463157543" />
+    <state width="1293" height="295" key="GridCell.Tab.1.center" timestamp="1622463157543">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1293" height="295" key="GridCell.Tab.1.center/-1920.9.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1622459327127" />
-    <state width="1293" height="295" key="GridCell.Tab.1.left" timestamp="1622459327127">
+    <state width="1293" height="295" key="GridCell.Tab.1.center/-1920.9.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1622463157543" />
+    <state width="1293" height="295" key="GridCell.Tab.1.left" timestamp="1622463157542">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1293" height="295" key="GridCell.Tab.1.left/-1920.9.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1622459327127" />
-    <state width="1293" height="295" key="GridCell.Tab.1.right" timestamp="1622459327127">
+    <state width="1293" height="295" key="GridCell.Tab.1.left/-1920.9.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1622463157542" />
+    <state width="1293" height="295" key="GridCell.Tab.1.right" timestamp="1622463157543">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1293" height="295" key="GridCell.Tab.1.right/-1920.9.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1622459327127" />
-    <state width="1293" height="295" key="GridCell.Tab.2.bottom" timestamp="1622459327128">
+    <state width="1293" height="295" key="GridCell.Tab.1.right/-1920.9.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1622463157543" />
+    <state width="1293" height="295" key="GridCell.Tab.2.bottom" timestamp="1622463157544">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1293" height="295" key="GridCell.Tab.2.bottom/-1920.9.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1622459327128" />
-    <state width="1293" height="295" key="GridCell.Tab.2.center" timestamp="1622459327128">
+    <state width="1293" height="295" key="GridCell.Tab.2.bottom/-1920.9.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1622463157544" />
+    <state width="1293" height="295" key="GridCell.Tab.2.center" timestamp="1622463157544">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1293" height="295" key="GridCell.Tab.2.center/-1920.9.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1622459327128" />
-    <state width="1293" height="295" key="GridCell.Tab.2.left" timestamp="1622459327128">
+    <state width="1293" height="295" key="GridCell.Tab.2.center/-1920.9.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1622463157544" />
+    <state width="1293" height="295" key="GridCell.Tab.2.left" timestamp="1622463157543">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1293" height="295" key="GridCell.Tab.2.left/-1920.9.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1622459327128" />
-    <state width="1293" height="295" key="GridCell.Tab.2.right" timestamp="1622459327128">
+    <state width="1293" height="295" key="GridCell.Tab.2.left/-1920.9.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1622463157543" />
+    <state width="1293" height="295" key="GridCell.Tab.2.right" timestamp="1622463157544">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1293" height="295" key="GridCell.Tab.2.right/-1920.9.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1622459327128" />
+    <state width="1293" height="295" key="GridCell.Tab.2.right/-1920.9.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1622463157544" />
     <state width="1293" height="295" key="GridCell.Tab.3.bottom" timestamp="1622414433637">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -275,6 +350,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="656" y="364" key="com.intellij.ide.util.TipDialog/-1920.9.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1622417041921" />
+    <state x="656" y="138" width="607" height="804" key="find.popup" timestamp="1622463245279">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="656" y="138" width="607" height="804" key="find.popup/-1920.9.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1622463245279" />
     <state x="342" y="160" key="new project wizard" timestamp="1622417240811">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>

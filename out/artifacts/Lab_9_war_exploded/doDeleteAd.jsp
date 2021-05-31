@@ -9,7 +9,7 @@
 <%-- Импортировать JSTL-библиотеку --%>
 <%@taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
 <%-- Импортировать собственную библиотеку тегов --%>
-<%@taglib prefix="ad" uri="http://tag/ad"%>
+<%@taglib prefix="ad" uri="http://bsu.rfe.java.Mashkantsev.tag/ad"%>
 <%-- Извлечь JavaBean требуемого объявления --%>
 <ad:getAds id="${param.id}" var="ad" />
 <%-- Удалить его из системы --%>

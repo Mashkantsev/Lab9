@@ -11,7 +11,7 @@
 <%-- Импортировать собственную библиотеку теговых файлов --%>
 <%@taglib prefix="my" tagdir="/WEB-INF/tags"%>
 <%-- Импортировать собственную библиотеку тегов --%>
-<%@taglib prefix="ad" uri="http://tag/ad"%>
+<%@taglib prefix="ad" uri="http://bsu.rfe.java.Mashkantsev.tag/ad"%>
 <%-- Проанализировать значение параметра id. Если он пустой или нулевой - то объявление создаѐтся --%>
 <c:choose>
     <c:when test="${param.id==null || param.id==0}">
@@ -48,7 +48,7 @@
     <%-- Вставить тег отображения сообщения об ошибке --%>
     <my:errorMessage />
     <%-- Отобразить форму редактирования объявления (с подстановкой переданных данных) --%>
-    <form action="/Lab9_war_exploded/doUpdateAd.jsp" method="post">
+    <form action="/ad/doUpdateAd.jsp" method="post">
             <%-- Если переданный параметр id больше нуля (т.е. мы редактируем объявление), то сохранить его в невидимом поле --%>
         <c:if test="${param.id>0}">
             <input type="hidden" name="id" value="${param.id}">
